@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MONICA</Machine>
+    <WindowsUser>Mònica</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>01e6da70-3642-4131-9b4f-90edbb016df8</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\mònica\documents\visual studio 2013\Projects\TestYourself\TestYourself\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>D86B33CF7E378F803BEB202B063161EF44DE1349F8EAAD89DF32CCA2C2A5A5C4</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>01e6da70-3642-4131-9b4f-90edbb016df8_1.0.0.0_neutral__phh9y543f33n4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>01e6da70-3642-4131-9b4f-90edbb016df8_phh9y543f33n4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>01e6da70-3642-4131-9b4f-90edbb016df8</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mònica</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\mònica\documents\visual studio 2013\Projects\TestYourself\TestYourself\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-29T08:08:54.134</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\mònica\documents\visual studio 2013\Projects\TestYourself\TestYourself\bin\Debug\TestYourself.exe">
+      <PackagePath>TestYourself.exe</PackagePath>
+      <Modified>2014-10-29T08:22:03.636</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mònica\documents\visual studio 2013\Projects\TestYourself\TestYourself\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mònica\documents\visual studio 2013\Projects\TestYourself\TestYourself\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mònica\documents\visual studio 2013\Projects\TestYourself\TestYourself\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mònica\documents\visual studio 2013\Projects\TestYourself\TestYourself\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mònica\documents\visual studio 2013\Projects\TestYourself\TestYourself\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-29T08:08:53.152</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mònica\documents\visual studio 2013\Projects\TestYourself\TestYourself\bin\Debug\View\MainPage.xbf">
+      <PackagePath>View\MainPage.xbf</PackagePath>
+      <Modified>2014-10-29T08:22:03.447</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mònica\documents\visual studio 2013\Projects\TestYourself\TestYourself\bin\Debug\TestYourself.xr.xml">
+      <PackagePath>TestYourself.xr.xml</PackagePath>
+      <Modified>2014-10-29T08:14:09.052</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mònica\documents\visual studio 2013\Projects\TestYourself\TestYourself\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-10-29T08:08:53.660</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
